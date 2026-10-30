@@ -1,2 +1,2 @@
 # hello-world
-A dice rolling repo.
+Our first repo
